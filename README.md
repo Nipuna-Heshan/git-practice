@@ -4,5 +4,3 @@ Content
 ## Subheader
 Whatever
 
-Merge Test
-
